@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dce435015656544eac34f85c1738bea, type: 3}
+  m_Name: Shop Bag
+  m_EditorClassIdentifier: 
+  items:
+  - itemData: {fileID: 11400000, guid: 886a1edb97dcc8140bcc51dd948dc46d, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: 84c64fc2a76c5dd45bf0da89037cf531, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: 9bb424720254f8d43ac67c412333d3c8, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: d5eb3e48626348e40af2c7cc34da199a, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: 0a06e1a73738cf34da66c8d588fef427, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: ef1d8d4993ca3204f99ada5403fb8a2a, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: ab56b0804de279b4ab74fd032cdf6ed6, type: 2}
+    count: 1
+  - itemData: {fileID: 11400000, guid: 91377f96c54042a48a19b984519919f8, type: 2}
+    count: 1
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0
+  - itemData: {fileID: 0}
+    count: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6944836cc41bb7a49af8cd7e25f68f58, type: 3}
+  m_Name: Warrior Complete Dialogue
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 1
+    image: {fileID: 0}
+    text: "\u5662\uFF01\u4F60\u5B8C\u6210\u4E86\u6211\u7ED9\u4F60\u7684\u4EFB\u52A1\uFF01"
+    questData: {fileID: 0}
+    dialogueOptions: []
+  - ID: 2
+    image: {fileID: 0}
+    text: "\u8FD9\u4E9B\u662F\u7ED9\u4F60\u7684\u5956\u52B1\uFF01"
+    questData: {fileID: 11400000, guid: 0b8c60cd90dd1ea438b7961ef6d95957, type: 2}
+    dialogueOptions:
+    - text: "\u8C22\u8C22\uFF01"
+      targetID: 
+      takeQuest: 1

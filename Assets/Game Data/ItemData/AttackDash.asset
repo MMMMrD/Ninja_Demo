@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ff9820f0d68b6743ae4ffcaf56ec68e, type: 3}
+  m_Name: AttackDash
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: AttackDash
+  itemIcon: {fileID: 8776828682132107708, guid: 07368eedf27a06448a6a3f61881e76a9,
+    type: 3}
+  itemCount: 1
+  description: "\u4F7F\u7528\u8BE5\u6280\u80FD\uFF0C\u53EF\u4EE5\u51B2\u5411\u654C\u65B9\uFF0C\u8EAB\u540E\u7684\u6B8B\u5F71\u5C06\u4F1A\u57281\u79D2\u540E\u56DE\u5230\u8EAB\u4E0A\uFF0C\u5E76\u5BF9\u6CBF\u9014\u7684\u654C\u4EBA\u9020\u6210\u4F24\u5BB3"
+  stackable: 0
+  EquipData: {fileID: 0}
+  useableData: {fileID: 11400000, guid: 761486ed0cb6d054cb48e11083626022, type: 2}
+  shopItemData: {fileID: 11400000, guid: b708fc4b657059e40a7098453253ad45, type: 2}

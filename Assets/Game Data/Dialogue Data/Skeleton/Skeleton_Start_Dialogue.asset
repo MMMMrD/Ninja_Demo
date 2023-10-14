@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6944836cc41bb7a49af8cd7e25f68f58, type: 3}
+  m_Name: Skeleton_Start_Dialogue
+  m_EditorClassIdentifier: 
+  dialogueLists:
+  - ID: list1
+    dialoguePieces:
+    - image: {fileID: 0}
+      text: "\u7ADF\u7136\u6709\u4EBA\u80FD\u591F\u4ECE\u7262\u623F\u91CC\u9003\u51FA\u6765\uFF0C\u8FD9\u53EF\u771F\u662F\u5C11\u89C1\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u662F\u4E0D\u662F\u611F\u89C9\u5F88\u5947\u602A\uFF0C\u4E3A\u4EC0\u4E48\u6211\u53EA\u5269\u9AA8\u5934\u4E86\u5374\u8FD8\u80FD\u8BF4\u8BDD\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u6211\u4EEC\u6240\u5728\u7684\u8FD9\u4E2A\u57CE\u5821\uFF0C\u5145\u6EE1\u7740\u672A\u77E5\u5730\u9B54\u6CD5\u6C14\u606F\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u6B63\u56E0\u4E3A\u8FD9\u91CC\u5145\u76C8\u7684\u9B54\u6CD5\u6C14\u606F\uFF0C\u624D\u4F7F\u5F97\u6211\u80FD\u591F\u4EE5\u8FD9\u79CD\u65B9\u5F0F\u6D3B\u4E0B\u6765\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u53EF\u662F\u8FD9\u80A1\u9B54\u6CD5\u6C14\u606F\u8C8C\u4F3C\u5BF9\u6D3B\u7740\u7684\u4EBA\u6709\u5BB3\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u57CE\u5821\u5185\u5927\u90E8\u5206\u4EBA\uFF0C\u90FD\u56E0\u4E3A\u8FD9\u80A1\u9B54\u6CD5\u6C14\u606F\u53D1\u4E86\u75AF\uFF0C\u4ED6\u4EEC\u4E0D\u5206\u654C\u53CB\u5730\u653B\u51FB\uFF0C\u76F4\u81F3\u81EA\u5DF1\u6B7B\u4EA1"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u53EA\u6709\u5C11\u6570\u4EBA\u80FD\u591F\u514D\u53D7\u9B54\u6CD5\u7684\u4FB5\u8680\uFF0C\u4FDD\u6301\u7406\u667A\uFF0C\u4ECE\u800C\u5E78\u514D\u4E8E\u96BE"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u6211\u4EE5\u8FD9\u79CD\u72B6\u6001\u6E05\u9192\u8FC7\u6765\u540E\uFF0C\u88AB\u8FD9\u91CC\u7684\u5546\u5E97\u8001\u677F\u6240\u6551"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u662F\u5979\u5E26\u6211\u5230\u8FD9\u7247\u72EC\u7ACB\u4E8E\u57CE\u5821\u7684\u7A7A\u95F4\u907F\u96BE"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u867D\u7136\u6211\u73B0\u5728\u4E5F\u4E0D\u4F1A\u518D\u6B7B\u53BB\u4E86\u3002\u3002"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions:
+      - text: "\u3002\u3002\u3002"
+        targetID: list2
+        takeQuest: 0
+        canDo: 0
+  - ID: list2
+    dialoguePieces:
+    - image: {fileID: 0}
+      text: "\u4E0D\u8BF4\u8FD9\u4E9B\u4E86\u3002\u6211\u5E0C\u671B\u4F60\u80FD\u5E2E\u6211\u4E2A\u5FD9"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u6211\u5E0C\u671B\u4F60\u80FD\u6E05\u9664\u8FD9\u4E2A\u57CE\u5821\u4E2D\u7684\u8FD9\u80A1\u8BE1\u5F02\u7684\u9B54\u6CD5\u6C14\u606F"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u4F60\u80FD\u591F\u4ECE\u5730\u7262\u4E2D\u9003\u751F\uFF0C\u53C8\u80FD\u591F\u5728\u8FD9\u80A1\u8BE1\u5F02\u7684\u9B54\u6CD5\u6C14\u606F\u4E2D\u4FDD\u6301\u7406\u667A"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u8FD9\u6837\u770B\u6765\uFF0C\u53EA\u6709\u4F60\u6709\u80FD\u529B\u6E05\u9664\u8FD9\u4E2A\u57CE\u5821\u4E2D\u7684\u4E0D\u660E\u9B54\u6CD5\u6C14\u606F\uFF0C\u89E3\u6551\u57CE\u5821\u4E2D\u7684\u4EBA\u4EEC"
+      haveEvent: 0
+      questData: {fileID: 11400000, guid: cb78c32c97f0da640a6cbaa6b70b8e43, type: 2}
+      dialogueOptions:
+      - text: "\u597D\u5427\uFF0C\u6211\u63A5\u53D7"
+        targetID: list3
+        takeQuest: 1
+        canDo: 0
+  - ID: list3
+    dialoguePieces:
+    - image: {fileID: 0}
+      text: "\u975E\u5E38\u611F\u8C22\u4F60\u80FD\u7B54\u5E94\u5E2E\u52A9\u6211\uFF01"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u5982\u679C\u9700\u8981\u63D0\u5347\u6218\u6597\u6280\u5DE7\u7684\u8BDD\u5C31\u53BB\u8001\u677F\u7684\u5546\u5E97\u5427"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []
+    - image: {fileID: 0}
+      text: "\u6700\u540E\uFF0C\u795D\u4F60\u6210\u529F\uFF01"
+      haveEvent: 0
+      questData: {fileID: 0}
+      dialogueOptions: []

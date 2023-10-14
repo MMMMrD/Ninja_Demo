@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 38256e063033b7f49896057fbb80e71d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8425528233268892498
+    second: Cultist_NoEffect_Sheet_0
+  - first:
+      213: 4554537942037222810
+    second: Cultist_NoEffect_Sheet_1
+  - first:
+      213: 170162851064850680
+    second: Cultist_NoEffect_Sheet_2
+  - first:
+      213: -605240186125264385
+    second: Cultist_NoEffect_Sheet_3
+  - first:
+      213: 7128820990571593109
+    second: Cultist_NoEffect_Sheet_4
+  - first:
+      213: -4543361081793660171
+    second: Cultist_NoEffect_Sheet_5
+  - first:
+      213: -7065332705713786759
+    second: Cultist_NoEffect_Sheet_6
+  - first:
+      213: -275543049648550128
+    second: Cultist_NoEffect_Sheet_7
+  - first:
+      213: 8018596469509397821
+    second: Cultist_NoEffect_Sheet_8
+  - first:
+      213: 3830517756707030415
+    second: Cultist_NoEffect_Sheet_9
+  - first:
+      213: 8743134904936981984
+    second: Cultist_NoEffect_Sheet_10
+  - first:
+      213: -2076571403449334016
+    second: Cultist_NoEffect_Sheet_11
+  - first:
+      213: 5763798287260010303
+    second: Cultist_NoEffect_Sheet_12
+  - first:
+      213: -9049085494977642514
+    second: Cultist_NoEffect_Sheet_13
+  - first:
+      213: 8879894545313849955
+    second: Cultist_NoEffect_Sheet_14
+  - first:
+      213: -8951950000634473975
+    second: Cultist_NoEffect_Sheet_15
+  - first:
+      213: 8958241710839565134
+    second: Cultist_NoEffect_Sheet_16
+  - first:
+      213: -7502224207808978634
+    second: Cultist_NoEffect_Sheet_17
+  - first:
+      213: -5868031872848233890
+    second: Cultist_NoEffect_Sheet_18
+  - first:
+      213: -3656548866425131936
+    second: Cultist_NoEffect_Sheet_19
+  - first:
+      213: 6995776773241787176
+    second: Cultist_NoEffect_Sheet_20
+  - first:
+      213: 2198095194342873905
+    second: Cultist_NoEffect_Sheet_21
+  - first:
+      213: -5653101151402195505
+    second: Cultist_NoEffect_Sheet_22
+  - first:
+      213: 1884114040592333683
+    second: Cultist_NoEffect_Sheet_23
+  - first:
+      213: 1343229276664140946
+    second: Cultist_NoEffect_Sheet_24
+  - first:
+      213: 6770016275241899142
+    second: Cultist_NoEffect_Sheet_25
+  - first:
+      213: -8093129095852119410
+    second: Cultist_NoEffect_Sheet_26
+  - first:
+      213: 985256001975515155
+    second: Cultist_NoEffect_Sheet_27
+  - first:
+      213: -4876621641329743155
+    second: Cultist_NoEffect_Sheet_28
+  - first:
+      213: -7054548897189525386
+    second: Cultist_NoEffect_Sheet_29
+  - first:
+      213: -8410199219645008411
+    second: Cultist_NoEffect_Sheet_30
+  - first:
+      213: 1147453598217485745
+    second: Cultist_NoEffect_Sheet_31
+  - first:
+      213: -7312507692880980299
+    second: Cultist_NoEffect_Sheet_32
+  - first:
+      213: -7146292787438351852
+    second: Cultist_NoEffect_Sheet_33
+  - first:
+      213: 3124782134559573612
+    second: Cultist_NoEffect_Sheet_34
+  - first:
+      213: -548333213568594570
+    second: Cultist_NoEffect_Sheet_35
+  - first:
+      213: -8745052153141272329
+    second: Cultist_NoEffect_Sheet_36
+  - first:
+      213: -7669016785893481180
+    second: Cultist_NoEffect_Sheet_37
+  - first:
+      213: -171232312169092858
+    second: Cultist_NoEffect_Sheet_38
+  - first:
+      213: -3727794196068625602
+    second: Cultist_NoEffect_Sheet_39
+  - first:
+      213: 3959844216575542480
+    second: Cultist_NoEffect_Sheet_40
+  - first:
+      213: 7256856021077152424
+    second: Cultist_NoEffect_Sheet_41
+  - first:
+      213: 2031664797977977155
+    second: Cultist_NoEffect_Sheet_42
+  - first:
+      213: 1976421525318822931
+    second: Cultist_NoEffect_Sheet_43
+  - first:
+      213: -285347616410785377
+    second: Cultist_NoEffect_Sheet_44
+  - first:
+      213: -5196763005165589758
+    second: Cultist_NoEffect_Sheet_45
+  - first:
+      213: 1488648096622273865
+    second: Cultist_NoEffect_Sheet_46
+  - first:
+      213: -224834765006964236
+    second: Cultist_NoEffect_Sheet_47
+  - first:
+      213: 3417381105778150278
+    second: Cultist_NoEffect_Sheet_48
+  - first:
+      213: -6772628718410880674
+    second: Cultist_NoEffect_Sheet_49
+  - first:
+      213: 212303850820844009
+    second: Cultist_NoEffect_Sheet_50
+  - first:
+      213: 1588326500020003026
+    second: Cultist_NoEffect_Sheet_51
+  - first:
+      213: 2022879382179738032
+    second: Cultist_NoEffect_Sheet_52
+  - first:
+      213: 2505810005612121793
+    second: Cultist_NoEffect_Sheet_53
+  - first:
+      213: 1105636813118128422
+    second: Cultist_NoEffect_Sheet_54
+  - first:
+      213: 3841025858723010960
+    second: Cultist_NoEffect_Sheet_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61efbeb84d0ab41a7009bb7d656745
+      internalID: -8425528233268892498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 462
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e58796cf8d89341ab2505a98326cd1
+      internalID: 4554537942037222810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 462
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a2bd87e600a54b96c16de893ec2b6
+      internalID: 170162851064850680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 462
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e34543189f71f4e97db09127080c75
+      internalID: -605240186125264385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 462
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2657f9a047719b4eb9df748a66ff0e2
+      internalID: 7128820990571593109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b885c80320754f96f05a57ef58506
+      internalID: -4543361081793660171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 420
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05720497e81f4f44866082ca9cc9028
+      internalID: -7065332705713786759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 420
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4515a2b809d49a42b39c5f94d8dfce3
+      internalID: -275543049648550128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 420
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756aa98605c8ec641874681b2be642a4
+      internalID: 8018596469509397821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374416bffe8c5214fa9e057501ce05ea
+      internalID: 3830517756707030415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb27e36594b899f459a1e51fe8df3046
+      internalID: 8743134904936981984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 378
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f36530ae15034d8c30326b05034e0
+      internalID: -2076571403449334016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 378
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c4d847cd3bb34590c299c23b10b35
+      internalID: 5763798287260010303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 378
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3dda01caf32948af37ce838fc32b7
+      internalID: -9049085494977642514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 378
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6f617aaae9504f84fed3b0e0b2c92
+      internalID: 8879894545313849955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd98b37f0092845b1afb30cb6eec55
+      internalID: -8951950000634473975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 336
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a519effaccfaf49a506188c998e8e4
+      internalID: 8958241710839565134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 336
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e37f759c99ad419f1bd6011f77d5f
+      internalID: -7502224207808978634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 336
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300e17f0b4fcfa342b6383036f23f629
+      internalID: -5868031872848233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 336
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d088a8f56c3c74d8a7a25be119dc44
+      internalID: -3656548866425131936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1535cd227f51d43b22716446a0433f
+      internalID: 6995776773241787176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 294
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401ce546576eed46865aae5f8af2744
+      internalID: 2198095194342873905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 294
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa16c13118714f74698e26db7f4055f6
+      internalID: -5653101151402195505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 294
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540456ce1d88f264695a1a6d7f172fcc
+      internalID: 1884114040592333683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 294
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9dd4d9832c9ab449f7fadd6d0ec003
+      internalID: 1343229276664140946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8decd95714dde64409cb40b8fa1e68be
+      internalID: 6770016275241899142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 252
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058076839d458945aa2f530fe5046f0
+      internalID: -8093129095852119410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 252
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156af1f750915d4790e72c33b5366ca
+      internalID: 985256001975515155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 252
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525058ee22dc5840b97f4106e30a756
+      internalID: -4876621641329743155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 252
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a6940f40bc3f49af9ff315ae22012
+      internalID: -7054548897189525386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbee9e17339c94caf00f50368fc7e5
+      internalID: -8410199219645008411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 210
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc949eae022f24f81b74df14a371fc
+      internalID: 1147453598217485745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25a909b7a052348bb73db260726a67
+      internalID: -7312507692880980299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 210
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b249dcfeff7c44a33a032b69a97b2
+      internalID: -7146292787438351852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280aeab259b734d4785380e8fb43c790
+      internalID: 3124782134559573612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8860c49f1ed5f4cb50b3a23adeb734
+      internalID: -548333213568594570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 168
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b66e41270003458efb456458c5eb6
+      internalID: -8745052153141272329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 168
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd454203c85d84ba7ea716918ec4ca
+      internalID: -7669016785893481180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 168
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e957cce93160a479d5335e79c8684c
+      internalID: -171232312169092858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a08f178b2ce1741b757a043112af74
+      internalID: -3727794196068625602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319ae819d349f44284891f27d6fd703
+      internalID: 3959844216575542480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 126
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39bb8ca3871894c97bbf150b598421
+      internalID: 7256856021077152424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f6dda79cb89e49aff46e113ce2b1a
+      internalID: 2031664797977977155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 126
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1d79a9b971554ba6e3277e127cd20
+      internalID: 1976421525318822931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 126
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01222a444e3aec247ac0de517782af8f
+      internalID: -285347616410785377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc48c665a51dd4ea07329ed65afd9c
+      internalID: -5196763005165589758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 84
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d549c7f3a96bd564e878f5ec98de9d93
+      internalID: 1488648096622273865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11996687e36432f489a750f5abb9828a
+      internalID: -224834765006964236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 84
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b4d015accab49409b906eef197c326
+      internalID: 3417381105778150278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 84
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83b25aa5b0abe48b690a164df51f7b
+      internalID: -6772628718410880674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a46685f9290764fa684d0501f57312
+      internalID: 212303850820844009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a99d384fb91d4fb95081c3cba890e
+      internalID: 1588326500020003026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd0bb7719cc1045855e735f2d68416
+      internalID: 2022879382179738032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7900a62afbea4f04e81fa87815dbcfc6
+      internalID: 2505810005612121793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89d058246f9c64d87963d5839be9d9
+      internalID: 1105636813118128422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_NoEffect_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0cad460c5e2b4da2596e2f844a6a3
+      internalID: 3841025858723010960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 15cc902b9d066274bbe34f569280b65a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

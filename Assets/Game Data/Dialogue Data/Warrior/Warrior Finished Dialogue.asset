@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6944836cc41bb7a49af8cd7e25f68f58, type: 3}
+  m_Name: Warrior Finished Dialogue
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 
+    image: {fileID: 0}
+    text: "\u611F\u8C22\u4F60\u80FD\u591F\u5B8C\u6210\u6211\u7ED9\u4F60\u7684\u4EFB\u52A1"
+    questData: {fileID: 0}
+    dialogueOptions: []

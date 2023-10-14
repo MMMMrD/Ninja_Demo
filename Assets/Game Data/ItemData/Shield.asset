@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ff9820f0d68b6743ae4ffcaf56ec68e, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: ThunderShield
+  itemIcon: {fileID: 21300000, guid: fe6763729603d9247997b901a822bb33, type: 3}
+  itemCount: 1
+  description: "\u96F7\u76FE\uFF0C\u53EF\u4EE5\u5F39\u5F00\u4E0E\u96F7\u7535\u76F8\u5173\u7684\u98DE\u884C\u9053\u5177"
+  stackable: 0
+  EquipData: {fileID: 0}
+  useableData: {fileID: 11400000, guid: 7c8144ffd2f2c6442ac94990994f760d, type: 2}
+  shopItemData: {fileID: 11400000, guid: 264dbdcba11e9f84ba494bc5643628e3, type: 2}

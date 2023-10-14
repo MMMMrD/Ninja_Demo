@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - HitBox
+  - Enemies
+  - Bullet
+  - Item
+  - AttackDashShadow
+  - Fire
+  - AirWall
+  - Trags
+  - ThunderShield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - HitBox
+  - Environments
+  - Player
+  - Enemies
+  - Bullet
+  - Item
+  - NPC
+  - Fire
+  - AirWall
+  - Traps
+  - Coin
+  - Trigger
+  - Collider
+  - Post Processing
+  - ThunderShield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4053624389
+    locked: 0
+  - name: Trap
+    uniqueID: 2281229545
+    locked: 0
+  - name: Platform
+    uniqueID: 1870280135
+    locked: 0
+  - name: Environments
+    uniqueID: 2398499711
+    locked: 0
+  - name: Enemies
+    uniqueID: 1940561323
+    locked: 0
+  - name: NPC
+    uniqueID: 3815527781
+    locked: 0
+  - name: Player
+    uniqueID: 1912761041
+    locked: 0
+  - name: Useable
+    uniqueID: 1941550527
+    locked: 0
+  - name: HitBox
+    uniqueID: 3650644595
+    locked: 0
+  - name: Bullet
+    uniqueID: 569222749
+    locked: 0
+  - name: Coin
+    uniqueID: 2492481945
+    locked: 0
+  - name: FX
+    uniqueID: 1961804483
+    locked: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Twisted Cultist
+  m_Controller: {fileID: 9100000, guid: 115fe3456565df1459f6a047c9cc899a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 17db80f850509814791e18db7f45b5e3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff994de23411f7241987d55a016b4b25, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e24ec720514750a4ea06021b1110726e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff994de23411f7241987d55a016b4b25, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fad5d8c7a5103d440a84b04dda259727, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a9e9dca3cc4c86e4f9dd5c7a91755e56, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3623dc18fdf71ea45902f6252305bfb1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 536eb93f68f70a048b420be117323d84, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bffe654880e54f24895c47ff2cd27ff7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d900a0b9ce5dd35449b3ddd8fd035280, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4283672d0c9f9b4d92edbfaf643551b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3415b4f34386744db3ad81fb4c16732, type: 2}

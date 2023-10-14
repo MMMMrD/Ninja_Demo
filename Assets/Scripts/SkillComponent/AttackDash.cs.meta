@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 181a06101438ffd4780748210ecc7030
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackDashShadow: {fileID: 7410505472801001249, guid: 8d19a79746c582140a6cd17f60c9ca07,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea07885f2130fb1439aa066e408ce213, type: 3}
+  m_Name: Skeleton Quest
+  m_EditorClassIdentifier: 
+  questName: "\u6D88\u9664\u9B54\u6CD5\u6C14\u606F"
+  description: "\u6D88\u9664\u57CE\u5821\u4E2D\u7684\u9B54\u6CD5\u6C14\u606F"
+  isStarted: 0
+  isComplete: 0
+  isFinished: 0
+  questRequires:
+  - name: BringerOfDeath
+    requireAmount: 1
+    currentAmount: 0
+  rewards: []

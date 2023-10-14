@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: aa40de35f536b0d4a839d3ffe45e4537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 709369163772501927
+    second: Twisted_Cultist_NoEffect_Sheet_0
+  - first:
+      213: 1731877261026878293
+    second: Twisted_Cultist_NoEffect_Sheet_1
+  - first:
+      213: -5868627217476090653
+    second: Twisted_Cultist_NoEffect_Sheet_2
+  - first:
+      213: -6035201851891909558
+    second: Twisted_Cultist_NoEffect_Sheet_3
+  - first:
+      213: 2113854039178118969
+    second: Twisted_Cultist_NoEffect_Sheet_4
+  - first:
+      213: 7992586215481754862
+    second: Twisted_Cultist_NoEffect_Sheet_5
+  - first:
+      213: -7371432853925146013
+    second: Twisted_Cultist_NoEffect_Sheet_6
+  - first:
+      213: -5616787299435140086
+    second: Twisted_Cultist_NoEffect_Sheet_7
+  - first:
+      213: 4900848074501336739
+    second: Twisted_Cultist_NoEffect_Sheet_8
+  - first:
+      213: 8963120535901592097
+    second: Twisted_Cultist_NoEffect_Sheet_9
+  - first:
+      213: -6735901404615736753
+    second: Twisted_Cultist_NoEffect_Sheet_10
+  - first:
+      213: 5993206405815420035
+    second: Twisted_Cultist_NoEffect_Sheet_11
+  - first:
+      213: 176914463408008246
+    second: Twisted_Cultist_NoEffect_Sheet_12
+  - first:
+      213: 159575561557192255
+    second: Twisted_Cultist_NoEffect_Sheet_13
+  - first:
+      213: 7060792074169278175
+    second: Twisted_Cultist_NoEffect_Sheet_14
+  - first:
+      213: 3405182987439873973
+    second: Twisted_Cultist_NoEffect_Sheet_15
+  - first:
+      213: -5973380357724947595
+    second: Twisted_Cultist_NoEffect_Sheet_16
+  - first:
+      213: -1032265254717432816
+    second: Twisted_Cultist_NoEffect_Sheet_17
+  - first:
+      213: 4784610341857529613
+    second: Twisted_Cultist_NoEffect_Sheet_18
+  - first:
+      213: -1050115381239750123
+    second: Twisted_Cultist_NoEffect_Sheet_19
+  - first:
+      213: -481579268262157921
+    second: Twisted_Cultist_NoEffect_Sheet_20
+  - first:
+      213: -1593131600982074832
+    second: Twisted_Cultist_NoEffect_Sheet_21
+  - first:
+      213: -4386053864184701510
+    second: Twisted_Cultist_NoEffect_Sheet_22
+  - first:
+      213: -7343620936932720212
+    second: Twisted_Cultist_NoEffect_Sheet_23
+  - first:
+      213: 690656641376472297
+    second: Twisted_Cultist_NoEffect_Sheet_24
+  - first:
+      213: -622565804730111548
+    second: Twisted_Cultist_NoEffect_Sheet_25
+  - first:
+      213: -4495017368156520624
+    second: Twisted_Cultist_NoEffect_Sheet_26
+  - first:
+      213: 5278568269990405563
+    second: Twisted_Cultist_NoEffect_Sheet_27
+  - first:
+      213: -7928066076124992595
+    second: Twisted_Cultist_NoEffect_Sheet_28
+  - first:
+      213: 1045563189297512979
+    second: Twisted_Cultist_NoEffect_Sheet_29
+  - first:
+      213: -5373137590447256263
+    second: Twisted_Cultist_NoEffect_Sheet_30
+  - first:
+      213: -6900923577617204297
+    second: Twisted_Cultist_NoEffect_Sheet_31
+  - first:
+      213: -815303661054787226
+    second: Twisted_Cultist_NoEffect_Sheet_32
+  - first:
+      213: 4583076718713455977
+    second: Twisted_Cultist_NoEffect_Sheet_33
+  - first:
+      213: -744213778932125456
+    second: Twisted_Cultist_NoEffect_Sheet_34
+  - first:
+      213: 1860416343437546896
+    second: Twisted_Cultist_NoEffect_Sheet_35
+  - first:
+      213: 2757246993584125271
+    second: Twisted_Cultist_NoEffect_Sheet_36
+  - first:
+      213: -1804887288944212475
+    second: Twisted_Cultist_NoEffect_Sheet_37
+  - first:
+      213: -2958476566196940285
+    second: Twisted_Cultist_NoEffect_Sheet_38
+  - first:
+      213: 7210443665034722381
+    second: Twisted_Cultist_NoEffect_Sheet_39
+  - first:
+      213: 6497685668475487237
+    second: Twisted_Cultist_NoEffect_Sheet_40
+  - first:
+      213: 1323004398090734689
+    second: Twisted_Cultist_NoEffect_Sheet_41
+  - first:
+      213: 5818275673596471064
+    second: Twisted_Cultist_NoEffect_Sheet_42
+  - first:
+      213: 4993065552659915210
+    second: Twisted_Cultist_NoEffect_Sheet_43
+  - first:
+      213: -6817513706859626666
+    second: Twisted_Cultist_NoEffect_Sheet_44
+  - first:
+      213: -3482855140053940602
+    second: Twisted_Cultist_NoEffect_Sheet_45
+  - first:
+      213: 3554496465187088992
+    second: Twisted_Cultist_NoEffect_Sheet_46
+  - first:
+      213: -2380699389935961840
+    second: Twisted_Cultist_NoEffect_Sheet_47
+  - first:
+      213: -8867357643946855509
+    second: Twisted_Cultist_NoEffect_Sheet_48
+  - first:
+      213: 2361249387952609056
+    second: Twisted_Cultist_NoEffect_Sheet_49
+  - first:
+      213: 2195943223570642336
+    second: Twisted_Cultist_NoEffect_Sheet_50
+  - first:
+      213: -8552029643424828817
+    second: Twisted_Cultist_NoEffect_Sheet_51
+  - first:
+      213: -2007385294369882026
+    second: Twisted_Cultist_NoEffect_Sheet_52
+  - first:
+      213: 225974554554178217
+    second: Twisted_Cultist_NoEffect_Sheet_53
+  - first:
+      213: -6333683660649856265
+    second: Twisted_Cultist_NoEffect_Sheet_54
+  - first:
+      213: 8854952422069145741
+    second: Twisted_Cultist_NoEffect_Sheet_55
+  - first:
+      213: -5813128465159405379
+    second: Twisted_Cultist_NoEffect_Sheet_56
+  - first:
+      213: 4283407329183997592
+    second: Twisted_Cultist_NoEffect_Sheet_57
+  - first:
+      213: -921939896194974356
+    second: Twisted_Cultist_NoEffect_Sheet_58
+  - first:
+      213: 5420489281162270625
+    second: Twisted_Cultist_NoEffect_Sheet_59
+  - first:
+      213: -2746007206831435414
+    second: Twisted_Cultist_NoEffect_Sheet_60
+  - first:
+      213: -3215848544185221745
+    second: Twisted_Cultist_NoEffect_Sheet_61
+  - first:
+      213: -124044228375724359
+    second: Twisted_Cultist_NoEffect_Sheet_62
+  - first:
+      213: 7815255754501417083
+    second: Twisted_Cultist_NoEffect_Sheet_63
+  - first:
+      213: -6841335690418425997
+    second: Twisted_Cultist_NoEffect_Sheet_64
+  - first:
+      213: -314435360631802416
+    second: Twisted_Cultist_NoEffect_Sheet_65
+  - first:
+      213: 5254999512286459767
+    second: Twisted_Cultist_NoEffect_Sheet_66
+  - first:
+      213: -5868287799041649985
+    second: Twisted_Cultist_NoEffect_Sheet_67
+  - first:
+      213: 2603875613438391806
+    second: Twisted_Cultist_NoEffect_Sheet_68
+  - first:
+      213: 7299426995996577155
+    second: Twisted_Cultist_NoEffect_Sheet_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccca216febdb6224ea41d1ffbae37e02
+      internalID: 709369163772501927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 546
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b15f73de336054e8d0955738f20658
+      internalID: 1731877261026878293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 546
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022a8e3de28c57c42a185f14f9bd6f09
+      internalID: -5868627217476090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 546
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13407968d9d540343ab83ef146d77185
+      internalID: -6035201851891909558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 546
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66c377236e2a643aeebb6f6d73b276
+      internalID: 2113854039178118969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2051151025b7146b8e387d9117fc04
+      internalID: 7992586215481754862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4937ff8bceaa3bf4da62f68427037e42
+      internalID: -7371432853925146013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c13e07a9038ead41800a9c186637a11
+      internalID: -5616787299435140086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9d67252ac8c8448bf85176d565792
+      internalID: 4900848074501336739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279f1cf48d1b6740961b321c73a0bb1
+      internalID: 8963120535901592097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890b205de741984d8a9f52657e731f5
+      internalID: -6735901404615736753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 462
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064976c98acc0c419693d25cc81129a
+      internalID: 5993206405815420035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 462
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c8a0329ccfa5428b3485fee3b2ef0
+      internalID: 176914463408008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 462
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42d2cb2b11daf47a9b31ed50812ff0
+      internalID: 159575561557192255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 462
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870266b57639ca3479492d8de4eb40c1
+      internalID: 7060792074169278175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173771d1bf7ec4b4a9fb86b29ff0c55e
+      internalID: 3405182987439873973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 420
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83279080486d718479d9021a175f2dd8
+      internalID: -5973380357724947595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 420
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f5ff9078748f4a820379bba148c18
+      internalID: -1032265254717432816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 420
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e7d1eb9297df4091222ef5c2e6621
+      internalID: 4784610341857529613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 420
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a333f8f015e984429330aa42bca4c4c
+      internalID: -1050115381239750123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639dfc3046b3f5d449f00ace0c72547c
+      internalID: -481579268262157921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 378
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339e7b4a89ddae4e90d78d3fc7914f9
+      internalID: -1593131600982074832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 378
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc839a9b82b6e458d52432a87875d5
+      internalID: -4386053864184701510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 378
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e825e351f56da8449a03b37cb8f4b0a
+      internalID: -7343620936932720212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 378
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbecc63fcaaa34a959834e0c6977bb
+      internalID: 690656641376472297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9dd05f800ed5647a975ab559582eef
+      internalID: -622565804730111548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 336
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e2441ec0fbff42bf3356251138443
+      internalID: -4495017368156520624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 336
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707a152c7aae4d34487d7ca09a8a363f
+      internalID: 5278568269990405563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 336
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40d807a9c5c4144bbec78b7cf7fb16
+      internalID: -7928066076124992595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 336
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b847d69dccbddf419ac4eb0f34e3a62
+      internalID: 1045563189297512979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c7101945c3ba4a9623774c6434f6f
+      internalID: -5373137590447256263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 294
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd711e783e56b3c44b0b75fae59f9f2f
+      internalID: -6900923577617204297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 294
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9a5dae8da10c4796dac173c1ae3b4
+      internalID: -815303661054787226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 294
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676d359a7e508a4190c6b48b153c8f7
+      internalID: 4583076718713455977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 294
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e786575126224ca22fbde9cc30238
+      internalID: -744213778932125456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba133ab3ba1dfd47853e9ab1fed7378
+      internalID: 1860416343437546896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 252
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd87614de1e5c4a80ca5cd67315592
+      internalID: 2757246993584125271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 252
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28e74ad33fa714d961277581b77136
+      internalID: -1804887288944212475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 252
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ae3c7a561b4949ae14e6da5a8ad24
+      internalID: -2958476566196940285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453decb7b8999b438d7d45e02ba8c54
+      internalID: 7210443665034722381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aca7c779070604c81431182f633d2a
+      internalID: 6497685668475487237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 210
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5acb37290effb46a1a421fdb984470
+      internalID: 1323004398090734689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 210
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86348d12df781354e8b5097da173385c
+      internalID: 5818275673596471064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 210
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c185c9e1b98f4c9982621e4d041ab
+      internalID: 4993065552659915210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 210
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94344d30e11157349851102ab4db732e
+      internalID: -6817513706859626666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb70063735ac14c9bc2ee8a8fdf698
+      internalID: -3482855140053940602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 168
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69aa7675404de54ea9939b7a1aeeb0f
+      internalID: 3554496465187088992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35f873e51a3a842b4639df24d7ecae
+      internalID: -2380699389935961840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72127dc06e9f3e44f8b93c736fc16d2c
+      internalID: -8867357643946855509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 168
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ab6d89d9686ff40bad7bdd821f9dcb
+      internalID: 2361249387952609056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f2ee53a7453e4db4c056dad9d39ed
+      internalID: 2195943223570642336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 126
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690680325b79ce4fa2334ad9a85befe
+      internalID: -8552029643424828817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 126
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b127860415b0cc24e85b472415918c7d
+      internalID: -2007385294369882026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ec7fc5231dcc4a8318a318b8e8969
+      internalID: 225974554554178217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 126
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3a74579544d64db0141a7c0ff4402
+      internalID: -6333683660649856265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7414936b13aa24fa00acc8aaaf4222
+      internalID: 8854952422069145741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305f783ce3322e41aa6b82dff6e66d8
+      internalID: -5813128465159405379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 84
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e816d39631ece46b17547bebd68c95
+      internalID: 4283407329183997592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 84
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0827b93de61824459ad4bdce68836ae
+      internalID: -921939896194974356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 84
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4d40d8bed15046b04f413acd36852
+      internalID: 5420489281162270625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c49ecf5836d6ef488e54e26b74a4f03
+      internalID: -2746007206831435414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 42
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613044e293c9fd40b2a0777209f57be
+      internalID: -3215848544185221745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 42
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115d849380c6b542a492749c3a3ab98
+      internalID: -124044228375724359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 42
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be6bcdc967a4744aa83918e7700100
+      internalID: 7815255754501417083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 42
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a4793f904bc345b8c283b757c0e5f
+      internalID: -6841335690418425997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d5789ebec6ee4e897d1eed6376ddf
+      internalID: -314435360631802416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449cb73a5b74d7419283800408f78da
+      internalID: 5254999512286459767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e881ba5a7c354aac7b95f982a7925
+      internalID: -5868287799041649985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9fa2bd8e964c4a8bc4e1a1b8ae6cf
+      internalID: 2603875613438391806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twisted_Cultist_NoEffect_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71015b000942184abf60d0a04b316d9
+      internalID: 7299426995996577155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9efbdbb9045ef7148a3b4dfe07858ee6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
