@@ -221,8 +221,34 @@ public class Boss_AssassinCultist : MonoBehaviour, IDamageable, GameOverReset
 
             if(characterStats.CurrentHealth <= 0)
             {
-                isDead = true;
-                GameManager.Instance.enemies.Remove(this);
+                OnDeath();
+            }
+        }
+    }
+
+    private void OnDeath()
+    {
+        isDead = true;
+        ClearAllAttackShadows();
+        GameManager.Instance.enemies.Remove(this);
+    }
+    
+    
+    private void ClearAllAttackShadows()
+    {
+        if (attackDashShadows.Count > 0)
+        {
+            List<AttackDashShadow> attackShadowToDestroy = new List<AttackDashShadow>();
+
+            foreach (var attackDashShadow in attackDashShadows)
+            {
+                attackShadowToDestroy.Add(attackDashShadow);
+            }
+            
+            foreach (var attackDashShadow in attackShadowToDestroy)
+            {
+                attackDashShadows.Remove(attackDashShadow);
+                Destroy(attackDashShadow.gameObject);
             }
         }
     }
